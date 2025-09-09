@@ -1,0 +1,129 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+.menu{
+   margin-bottom: 20px;
+   
+    
+}
+.myname{
+    text-align: center;
+    text-decoration: underline antiquewhite;
+    
+}
+.mother{
+    margin-left: 200px;
+    margin-right: 20px;
+}
+#you{
+    text-decoration: none;
+    color: inherit;
+    margin-left: 15px;
+    font-size: 25px;
+    
+}
+#you:hover{
+    color: deeppink;
+    border-bottom-style: solid;
+
+}
+.container{
+    
+}
+.bottom{
+    text-align: center;
+    margin: 50px;
+    font-size: 1.5em;
+}
+.bottom:hover{
+    color: lightpink;
+}
+.first-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    border: 3px solid antiquewhite;
+    margin-right: 400px;
+}
+
+
+h1{
+    margin-bottom: 50px;
+}
+.left{
+    display: inline-block;
+    width: 40%;
+    
+}
+.right{
+    display: inline-block;
+    width: 50%;
+    
+}
+#him{
+    border-radius: 20px;
+    border: 3px solid antiquewhite;
+    margin-top: 20px;
+    
+}
+#him:hover{
+    border: 3px solid lightpink;
+}
+#book1{
+    width: 200px;
+    height: 300px;
+    transition: transform 0.3s ease; 
+    transform: rotate(7deg);
+    border: 5px solid antiquewhite;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    
+}
+#book1:hover{
+    border: 5px solid  lightpink;
+}
+.blockelement{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: lightgray;
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    padding-left: 15px;
+    margin: 15px;
+    
+    
+}
+.element{
+    background-color: antiquewhite ;
+    border-radius: 20px;
+    border: 3px solid white;
+    padding: 7px;
+    height: 40px;
+    width: 80px;
+    
+    
+}
+.element:hover{
+    background-color: lightpink;
+    border: 3px solid lightgoldenrodyellow
+    
+}
+.inputspan{
+    margin-bottom: 20px;
+}
+.forget{
+    margin-bottom: 10px;
+}
+
+
+.all{
+    margin-bottom: 20px;
+}
+
+
